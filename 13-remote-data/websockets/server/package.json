@@ -9,7 +9,7 @@
   "author": "Adam Scott <hello@adamdscott.com>",
   "license": "ISC",
   "dependencies": {
-    "ws": "^7.3.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
