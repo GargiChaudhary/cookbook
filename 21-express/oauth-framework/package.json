@@ -18,11 +18,11 @@
     "express-session": "^1.17.1",
     "node-fetch": "^2.6.7",
     "node-twitter-api": "^1.8.0",
-    "nodemon": "^2.0.17",
+    "nodemon": "^3.0.0",
     "oauth": "^0.9.15",
     "passport": "^0.6.0",
     "passport-twitter": "^1.0.4",
-    "pug": "^3.0.1",
+    "pug": "^3.0.3",
     "twit": "^2.2.11",
     "twitter": "^1.7.1",
     "twitter-lite": "^0.14.0"
