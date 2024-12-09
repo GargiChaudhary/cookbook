@@ -10,6 +10,6 @@
   "author": "Adam Scott <hello@adamdscott.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.21.2"
   }
 }
