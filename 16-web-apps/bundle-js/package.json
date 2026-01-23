@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "dayjs": "^1.8.26",
-    "lodash-es": "^4.17.15"
+    "lodash-es": "^4.17.23"
   }
 }
